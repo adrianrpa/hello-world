@@ -62,7 +62,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:Comment sap:VirtualizedContainerService.HintSize="333.6,75.2" sap2010:WorkflowViewState.IdRef="Comment_1" Text="// Text box displays a message box with specified text" />
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" sap2010:Annotation.AnnotationText="This activity displays data in a message box" AutoCloseAfter="00:00:00" DisplayName="Message Box-Hello World" sap:VirtualizedContainerService.HintSize="333.6,116.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello World&quot;]">
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" sap2010:Annotation.AnnotationText="This activity displays final data in a message box" AutoCloseAfter="00:00:00" DisplayName="Message Box-Hello World" sap:VirtualizedContainerService.HintSize="333.6,116.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello World&quot;]">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
